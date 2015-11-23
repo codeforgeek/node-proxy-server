@@ -1,0 +1,30 @@
+{
+  "name": "ia_api_gateway",
+  "version": "1.0.0",
+  "description": "This is API gateway for services.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-develop-server": "^0.5.0",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^1.12.0",
+    "mocha": "^2.3.4",
+    "should": "^7.1.1",
+    "supertest": "^1.1.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp-mocha": "^2.2.0",
+    "http-proxy": "^1.12.0",
+    "morgan": "^1.6.1"
+  }
+}

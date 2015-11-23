@@ -1,0 +1,6 @@
+::1 - - [18/Nov/2015:08:26:56 +0000] "GET / HTTP/1.1" 404 13 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [18/Nov/2015:08:26:57 +0000] "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [19/Nov/2015:05:56:17 +0000] "GET /app1 HTTP/1.1" 404 17 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [19/Nov/2015:05:56:18 +0000] "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:3000/app1" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [19/Nov/2015:05:56:35 +0000] "GET /app1/ HTTP/1.1" 404 18 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [19/Nov/2015:05:56:41 +0000] "GET /app2/ HTTP/1.1" 404 18 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
